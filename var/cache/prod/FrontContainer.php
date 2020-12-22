@@ -1901,6 +1901,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 62 => 'ps_checkout',
                 63 => 'blockreassurance',
                 64 => 'ps_facetedsearch',
+                65 => 'colorchange',
             ],
             'ps_cache_dir' => 'C:\\xampp\\htdocs\\microGranjasEshop/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-13 20:44:58
+/* Smarty version 3.1.34-dev-7, created on 2020-12-17 16:36:53
   from 'C:\xampp\htdocs\microGranjasEshop\themes\classic\templates\_partials\form-errors.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fd66f3a951842_27211454',
+  'unifunc' => 'content_5fdb7b158633e1_81156705',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '392926852a76577dd767f27b0f5e25addafdaca7' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\_partials\\form-errors.tpl',
-      1 => 1607886129,
+      1 => 1608207335,
       2 => 'file',
     ),
   ),
@@ -20,25 +20,25 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fd66f3a951842_27211454 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fdb7b158633e1_81156705 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 if (count($_smarty_tpl->tpl_vars['errors']->value)) {?>
   <div class="help-block">
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_15097063635fd66f3a94ec82_89138839', 'form_errors');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2339154405fdb7b15860374_49013109', 'form_errors');
 ?>
 
   </div>
 <?php }
 }
 /* {block 'form_errors'} */
-class Block_15097063635fd66f3a94ec82_89138839 extends Smarty_Internal_Block
+class Block_2339154405fdb7b15860374_49013109 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'form_errors' => 
   array (
-    0 => 'Block_15097063635fd66f3a94ec82_89138839',
+    0 => 'Block_2339154405fdb7b15860374_49013109',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

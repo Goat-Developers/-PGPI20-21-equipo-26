@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-16 12:32:36
+/* Smarty version 3.1.34-dev-7, created on 2020-12-18 13:35:34
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\default\template\helpers\list\list_action_delete.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fd9f054a1f8a7_47000556',
+  'unifunc' => 'content_5fdca216c02e16_24566364',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'e3d05f431f2a1b84cb6e90ed84478148b1e918b6' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\default\\template\\helpers\\list\\list_action_delete.tpl',
-      1 => 1608048597,
+      1 => 1608207325,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fd9f054a1f8a7_47000556 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fdca216c02e16_24566364 (Smarty_Internal_Template $_smarty_tpl) {
 ?><a href="#"
    title="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['action']->value,'html','UTF-8' ));?>
 "

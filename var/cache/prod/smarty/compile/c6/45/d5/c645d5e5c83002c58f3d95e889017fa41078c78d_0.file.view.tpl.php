@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-13 20:47:22
+/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:03
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\default\template\controllers\dashboard\helpers\view\view.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fd66fca9637c0_14981943',
+  'unifunc' => 'content_5fdb6d87504420_57812163',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c645d5e5c83002c58f3d95e889017fa41078c78d' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\default\\template\\controllers\\dashboard\\helpers\\view\\view.tpl',
-      1 => 1607886105,
+      1 => 1608207324,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fd66fca9637c0_14981943 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fdb6d87504420_57812163 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
 	var dashboard_ajax_url = '<?php echo $_smarty_tpl->tpl_vars['link']->value->getAdminLink('AdminDashboard');?>

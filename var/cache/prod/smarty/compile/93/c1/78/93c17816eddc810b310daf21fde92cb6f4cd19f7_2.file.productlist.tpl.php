@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-15 20:14:16
+/* Smarty version 3.1.34-dev-7, created on 2020-12-17 16:29:46
   from 'C:\xampp\htdocs\microGranjasEshop\themes\classic\templates\catalog\_partials\productlist.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fd90b080ef700_00673960',
+  'unifunc' => 'content_5fdb796a719339_02902367',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '93c17816eddc810b310daf21fde92cb6f4cd19f7' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\catalog\\_partials\\productlist.tpl',
-      1 => 1608048608,
+      1 => 1608207335,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_5fd90b080ef700_00673960 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fdb796a719339_02902367 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="products<?php if (!empty($_smarty_tpl->tpl_vars['cssClass']->value)) {?> <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['cssClass']->value, ENT_QUOTES, 'UTF-8');
 }?>" itemscope itemtype="http://schema.org/ItemList">
     <?php
