@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-15 20:14:15
+/* Smarty version 3.1.34-dev-7, created on 2020-12-17 16:29:46
   from 'C:\xampp\htdocs\microGranjasEshop\themes\classic\templates\catalog\_partials\sort-orders.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fd90b07ef3cf0_70863930',
+  'unifunc' => 'content_5fdb796a54cb70_94505554',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c0950235a06a213b2f3a5ffc45318e05258f2ac3' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\catalog\\_partials\\sort-orders.tpl',
-      1 => 1608048608,
+      1 => 1608207335,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fd90b07ef3cf0_70863930 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fdb796a54cb70_94505554 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <span class="col-sm-3 col-md-3 hidden-sm-down sort-by"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Sort by:','d'=>'Shop.Theme.Global'),$_smarty_tpl ) );?>
 </span>
