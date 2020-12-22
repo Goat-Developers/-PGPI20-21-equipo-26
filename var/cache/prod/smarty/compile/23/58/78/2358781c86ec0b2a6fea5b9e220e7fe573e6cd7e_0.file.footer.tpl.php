@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:06
+/* Smarty version 3.1.34-dev-7, created on 2020-12-13 20:45:54
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\default\template\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6d8a298857_02454092',
+  'unifunc' => 'content_5fd66f72848ef6_39661028',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2358781c86ec0b2a6fea5b9e220e7fe573e6cd7e' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\default\\template\\footer.tpl',
-      1 => 1608207325,
+      1 => 1607886104,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:error.tpl' => 1,
   ),
 ),false)) {
-function content_5fdb6d8a298857_02454092 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fd66f72848ef6_39661028 (Smarty_Internal_Template $_smarty_tpl) {
 ?>         <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0], array( array('h'=>'displayAdminEndContent'),$_smarty_tpl ) );?>
 
 	</div>

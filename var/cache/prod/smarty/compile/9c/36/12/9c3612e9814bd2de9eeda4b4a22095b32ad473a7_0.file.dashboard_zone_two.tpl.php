@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:02
+/* Smarty version 3.1.34-dev-7, created on 2020-12-13 20:47:21
   from 'C:\xampp\htdocs\microGranjasEshop\modules\dashtrends\views\templates\hook\dashboard_zone_two.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6d8670e704_30575765',
+  'unifunc' => 'content_5fd66fc9f11a37_49200843',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9c3612e9814bd2de9eeda4b4a22095b32ad473a7' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\modules\\dashtrends\\views\\templates\\hook\\dashboard_zone_two.tpl',
-      1 => 1608207328,
+      1 => 1607886124,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6d8670e704_30575765 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fd66fc9f11a37_49200843 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
 	var currency_format = <?php echo floatval($_smarty_tpl->tpl_vars['currency']->value->format);?>
