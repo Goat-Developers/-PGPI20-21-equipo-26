@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:44
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 14:43:12
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\default\template\controllers\modules\modal_translation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6db0055ea9_78625435',
+  'unifunc' => 'content_5fe34970e3dd81_67854247',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b67ae8f3f7818f5754df5c4c0e6534b63e4c9afc' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\default\\template\\controllers\\modules\\modal_translation.tpl',
-      1 => 1608207325,
+      1 => 1608729647,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6db0055ea9_78625435 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe34970e3dd81_67854247 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal-body">
 	<div class="input-group">
 		<button type="button" class="btn btn-default dropdown-toggle" tabindex="-1" data-toggle="dropdown">

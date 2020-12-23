@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-18 13:50:08
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 17:38:00
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\default\template\controllers\images\content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdca580bcb923_03764498',
+  'unifunc' => 'content_5fe372688d13f7_28843328',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9faafbce30c80594b79b46a9ad2805b29ae6dc7c' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\default\\template\\controllers\\images\\content.tpl',
-      1 => 1608207325,
+      1 => 1608729647,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdca580bcb923_03764498 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe372688d13f7_28843328 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="alert alert-danger">
 	<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'By default, all images settings are already installed in your store. Do not delete them, you will need it!','d'=>'Admin.Design.Help'),$_smarty_tpl ) );?>

@@ -1,42 +1,42 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-18 17:38:33
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 19:06:35
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdcdb093c6d60_66826219',
+  'unifunc' => 'content_5fe3872b811a39_53879496',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fa6cc378d2942c8857b89d6bca728048c0caeedd' => 
     array (
       0 => 'module:psfeaturedproductsviewste',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'module',
     ),
     '93c17816eddc810b310daf21fde92cb6f4cd19f7' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\catalog\\_partials\\productlist.tpl',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'file',
     ),
     'e1ea4e6552fb5be6f339b3c46a96756bcd9494a1' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\catalog\\_partials\\miniatures\\product.tpl',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'file',
     ),
     '6ce65729bc262387e1548c4e10c68fe2eedc818a' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\catalog\\_partials\\product-flags.tpl',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe3872b811a39_53879496 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     Productos Destacados
@@ -44,10 +44,10 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
   <div class="products row" itemscope itemtype="http://schema.org/ItemList">
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="0" />  <article class="product-miniature js-product-miniature" data-id-product="21" data-id-product-attribute="42" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="0" />  <article class="product-miniature js-product-miniature" data-id-product="21" data-id-product-attribute="92" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-                  <a href="http://localhost/microGranjasEshop/microgranjas/21-42-granja-basica-chico.html#/1-tamano-pequeno" class="thumbnail product-thumbnail">
+                  <a href="http://localhost/microGranjasEshop/microgranjas/21-92-granja-basica-chico.html#/1-tamano-pequeno/32-material-plastico" class="thumbnail product-thumbnail">
             <img
               src="http://localhost/microGranjasEshop/25-home_default/granja-basica-chico.jpg"
               alt="Micro granja Básica"
@@ -58,7 +58,7 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/microGranjasEshop/microgranjas/21-42-granja-basica-chico.html#/1-tamano-pequeno" itemprop="url" content="http://localhost/microGranjasEshop/microgranjas/21-42-granja-basica-chico.html#/1-tamano-pequeno">Micro granja Básica</a></h3>
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/microGranjasEshop/microgranjas/21-92-granja-basica-chico.html#/1-tamano-pequeno/32-material-plastico" itemprop="url" content="http://localhost/microGranjasEshop/microgranjas/21-92-granja-basica-chico.html#/1-tamano-pequeno/32-material-plastico">Micro granja Básica</a></h3>
                   
 
         
@@ -85,6 +85,10 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
   <div class="comments-nb"></div>
 </div>
 
+<div itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating" itemscope>
+  <meta itemprop="reviewCount" content="1" />
+  <meta itemprop="ratingValue" content="3" />
+</div>
 
         
       </div>
@@ -258,10 +262,10 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="3" />  <article class="product-miniature js-product-miniature" data-id-product="39" data-id-product-attribute="76" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="3" />  <article class="product-miniature js-product-miniature" data-id-product="39" data-id-product-attribute="122" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-                  <a href="http://localhost/microGranjasEshop/inicio/39-76-micro-granja-portable.html#/5-color-gris" class="thumbnail product-thumbnail">
+                  <a href="http://localhost/microGranjasEshop/inicio/39-122-micro-granja-portable.html#/5-color-gris/32-material-plastico" class="thumbnail product-thumbnail">
             <img
               src="http://localhost/microGranjasEshop/42-home_default/micro-granja-portable.jpg"
               alt="Micro granja portable"
@@ -272,7 +276,7 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/microGranjasEshop/inicio/39-76-micro-granja-portable.html#/5-color-gris" itemprop="url" content="http://localhost/microGranjasEshop/inicio/39-76-micro-granja-portable.html#/5-color-gris">Micro granja portable</a></h3>
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/microGranjasEshop/inicio/39-122-micro-granja-portable.html#/5-color-gris/32-material-plastico" itemprop="url" content="http://localhost/microGranjasEshop/inicio/39-122-micro-granja-portable.html#/5-color-gris/32-material-plastico">Micro granja portable</a></h3>
                   
 
         
@@ -299,6 +303,10 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
   <div class="comments-nb"></div>
 </div>
 
+<div itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating" itemscope>
+  <meta itemprop="reviewCount" content="1" />
+  <meta itemprop="ratingValue" content="3" />
+</div>
 
         
       </div>
@@ -318,12 +326,12 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
 
         
                       <div class="variant-links">
-      <a href="http://localhost/microGranjasEshop/inicio/39-76-micro-granja-portable.html#/5-color-gris"
+      <a href="http://localhost/microGranjasEshop/inicio/39-122-micro-granja-portable.html#/5-color-gris/32-material-plastico"
        class="color"
        title="Gris"
        aria-label="Gris"
        style="background-color: #AAB2BD"     ></a>
-      <a href="http://localhost/microGranjasEshop/inicio/39-75-micro-granja-portable.html#/8-color-blanco"
+      <a href="http://localhost/microGranjasEshop/inicio/39-121-micro-granja-portable.html#/8-color-blanco/32-material-plastico"
        class="color"
        title="Blanco"
        aria-label="Blanco"
@@ -338,10 +346,10 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="4" />  <article class="product-miniature js-product-miniature" data-id-product="40" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="4" />  <article class="product-miniature js-product-miniature" data-id-product="40" data-id-product-attribute="90" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-                  <a href="http://localhost/microGranjasEshop/inicio/40-micro-granja-de-tejas.html" class="thumbnail product-thumbnail">
+                  <a href="http://localhost/microGranjasEshop/inicio/40-90-micro-granja-de-tejas.html#/34-material-hormigon" class="thumbnail product-thumbnail">
             <img
               src="http://localhost/microGranjasEshop/44-home_default/micro-granja-de-tejas.jpg"
               alt="Micro granja de tejas"
@@ -352,7 +360,7 @@ function content_5fdcdb093c6d60_66826219 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/microGranjasEshop/inicio/40-micro-granja-de-tejas.html" itemprop="url" content="http://localhost/microGranjasEshop/inicio/40-micro-granja-de-tejas.html">Micro granja de tejas</a></h3>
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/microGranjasEshop/inicio/40-90-micro-granja-de-tejas.html#/34-material-hormigon" itemprop="url" content="http://localhost/microGranjasEshop/inicio/40-90-micro-granja-de-tejas.html#/34-material-hormigon">Micro granja de tejas</a></h3>
                   
 
         

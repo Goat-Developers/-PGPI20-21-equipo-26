@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:40:39
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 14:41:50
   from 'C:\xampp\htdocs\microGranjasEshop\themes\classic\templates\_partials\javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6de7f018e7_93952733',
+  'unifunc' => 'content_5fe3491e5d1ee5_29691540',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a0ee24bc79785a7c675a6db4751bdc60dcac04cf' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\_partials\\javascript.tpl',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6de7f018e7_93952733 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe3491e5d1ee5_29691540 (Smarty_Internal_Template $_smarty_tpl) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['javascript']->value['external'], 'js');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['js']->value) {

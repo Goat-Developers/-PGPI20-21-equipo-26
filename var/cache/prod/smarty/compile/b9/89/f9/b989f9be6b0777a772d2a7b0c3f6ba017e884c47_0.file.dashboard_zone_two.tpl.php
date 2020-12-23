@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:02
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 14:42:33
   from 'C:\xampp\htdocs\microGranjasEshop\modules\dashproducts\views\templates\hook\dashboard_zone_two.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6d863632d9_80924637',
+  'unifunc' => 'content_5fe349490c83c1_29050053',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b989f9be6b0777a772d2a7b0c3f6ba017e884c47' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\modules\\dashproducts\\views\\templates\\hook\\dashboard_zone_two.tpl',
-      1 => 1608207328,
+      1 => 1608729650,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6d863632d9_80924637 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe349490c83c1_29050053 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section id="dashproducts" class="panel widget <?php if ($_smarty_tpl->tpl_vars['allow_push']->value) {?> allow_push<?php }?>">
   <header class="panel-heading">

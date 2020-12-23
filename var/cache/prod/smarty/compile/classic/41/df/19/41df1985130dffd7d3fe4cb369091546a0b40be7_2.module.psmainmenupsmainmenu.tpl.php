@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:38:24
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 14:40:58
   from 'module:psmainmenupsmainmenu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6d60cf6364_07070259',
+  'unifunc' => 'content_5fe348ea4bca76_88133879',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '41df1985130dffd7d3fe4cb369091546a0b40be7' => 
     array (
       0 => 'module:psmainmenupsmainmenu.tpl',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'module',
     ),
   ),
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6d60cf6364_07070259 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe348ea4bca76_88133879 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'menu' => 
   array (
     'compiled_filepath' => 'C:\\xampp\\htdocs\\microGranjasEshop\\var\\cache\\prod\\smarty\\compile\\classic\\41\\df\\19\\41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.psmainmenupsmainmenu.tpl.php',
     'uid' => '41df1985130dffd7d3fe4cb369091546a0b40be7',
-    'call_name' => 'smarty_template_function_menu_16427984905fdb6d60cb1561_14291488',
+    'call_name' => 'smarty_template_function_menu_8616614175fe348ea393126_54262050',
   ),
 ));
 $_smarty_tpl->_assignInScope('_counter', 0);?>
@@ -38,9 +38,9 @@ $_smarty_tpl->_assignInScope('_counter', 0);?>
     <div class="clearfix"></div>
 </div>
 <?php }
-/* smarty_template_function_menu_16427984905fdb6d60cb1561_14291488 */
-if (!function_exists('smarty_template_function_menu_16427984905fdb6d60cb1561_14291488')) {
-function smarty_template_function_menu_16427984905fdb6d60cb1561_14291488(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_menu_8616614175fe348ea393126_54262050 */
+if (!function_exists('smarty_template_function_menu_8616614175fe348ea393126_54262050')) {
+function smarty_template_function_menu_8616614175fe348ea393126_54262050(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0,'parent'=>null), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -95,5 +95,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
       </ul>
     <?php }
 }}
-/*/ smarty_template_function_menu_16427984905fdb6d60cb1561_14291488 */
+/*/ smarty_template_function_menu_8616614175fe348ea393126_54262050 */
 }

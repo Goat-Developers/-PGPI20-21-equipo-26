@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:45
+/* Smarty version 3.1.34-dev-7, created on 2020-12-23 14:44:08
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\default\template\controllers\modules\content-legacy.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6db1608236_37607920',
+  'unifunc' => 'content_5fe349a84976e8_43009446',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'e9ca7ed2edca9b9cc452f94ffc66eee377224b2f' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\default\\template\\controllers\\modules\\content-legacy.tpl',
-      1 => 1608207325,
+      1 => 1608729647,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:controllers/modules/page.tpl' => 1,
   ),
 ),false)) {
-function content_5fdb6db1608236_37607920 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe349a84976e8_43009446 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['module_content']->value)) {?>
 	<?php echo $_smarty_tpl->tpl_vars['module_content']->value;?>
 
