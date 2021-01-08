@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:39:23
+/* Smarty version 3.1.34-dev-7, created on 2021-01-08 11:16:50
   from 'C:\xampp\htdocs\microGranjasEshop\admin861ot6msy\themes\new-theme\template\components\layout\search_form.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6d9b9b1c26_08283553',
+  'unifunc' => 'content_5ff83112eba1b6_78405335',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '344113e309c4c43f09978a71f82f2bd3ae24bc00' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\admin861ot6msy\\themes\\new-theme\\template\\components\\layout\\search_form.tpl',
-      1 => 1608207325,
+      1 => 1608729647,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6d9b9b1c26_08283553 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ff83112eba1b6_78405335 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <form id="header_search"
       class="bo_search_form dropdown-form js-dropdown-form collapsed"

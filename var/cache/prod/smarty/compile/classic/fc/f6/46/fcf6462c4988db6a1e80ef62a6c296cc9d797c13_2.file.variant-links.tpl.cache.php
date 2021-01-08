@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-18 17:36:00
+/* Smarty version 3.1.34-dev-7, created on 2021-01-07 17:36:32
   from 'C:\xampp\htdocs\microGranjasEshop\themes\classic\templates\catalog\_partials\variant-links.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdcda700afdd0_17047683',
+  'unifunc' => 'content_5ff73890226843_82584348',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fcf6462c4988db6a1e80ef62a6c296cc9d797c13' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\themes\\classic\\templates\\catalog\\_partials\\variant-links.tpl',
-      1 => 1608207335,
+      1 => 1608729654,
       2 => 'file',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdcda700afdd0_17047683 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '639903335fdcda70062bd6_39618590';
+function content_5ff73890226843_82584348 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '10385545645ff7389020dab6_89077464';
 ?>
 <div class="variant-links">
   <?php

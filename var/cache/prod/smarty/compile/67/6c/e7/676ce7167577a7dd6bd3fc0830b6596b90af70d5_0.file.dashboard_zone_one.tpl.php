@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-17 15:38:57
+/* Smarty version 3.1.34-dev-7, created on 2021-01-08 11:16:08
   from 'C:\xampp\htdocs\microGranjasEshop\modules\psaddonsconnect\views\templates\hook\dashboard_zone_one.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdb6d8115ee82_48673356',
+  'unifunc' => 'content_5ff830e8eba050_56472166',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '676ce7167577a7dd6bd3fc0830b6596b90af70d5' => 
     array (
       0 => 'C:\\xampp\\htdocs\\microGranjasEshop\\modules\\psaddonsconnect\\views\\templates\\hook\\dashboard_zone_one.tpl',
-      1 => 1608207332,
+      1 => 1608729652,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdb6d8115ee82_48673356 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ff830e8eba050_56472166 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section id="psaddonsconnect" class="panel widget">
 	<div class="panel-heading">
